@@ -30,7 +30,7 @@
       <plugin>
         <groupId>org.apache.felix</groupId>
         <artifactId>maven-bundle-plugin</artifactId>
-        <version>5.1.9</version>
+        <version>6.2.0</version>
         <configuration>
           <instructions>
             <Fragment-Host>com.googlecode.libphonenumber</Fragment-Host>
@@ -84,7 +84,7 @@
     <dependency>
       <groupId>com.googlecode.libphonenumber</groupId>
       <artifactId>libphonenumber</artifactId>
-      <version>9.0.21</version>
+      <version>9.0.43</version>
     </dependency>
   </dependencies>
 
